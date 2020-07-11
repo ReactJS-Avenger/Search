@@ -2,5 +2,5 @@
 
 1. git clone
 2. npm install
-3. cd <directory>
+3. cd Search
 4. npm start
